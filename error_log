@@ -1,0 +1,22 @@
+[31-Dec-2014 18:40:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Division by zero.' in /home/allstorespanel/public_html/search/test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/allstorespanel/public_html/search/test.php on line 12
+[31-Dec-2014 18:59:31 UTC] PHP Fatal error:  Call to undefined method DBHelper::executeQuery() in /home/allstorespanel/public_html/search/storesmetadata.php on line 12
+[31-Dec-2014 19:00:03 UTC] PHP Fatal error:  Call to undefined method DBHelper::executeQuery() in /home/allstorespanel/public_html/search/storesmetadata.php on line 12
+[31-Dec-2014 19:00:34 UTC] PHP Fatal error:  Call to undefined method DBHelper::executeQuery() in /home/allstorespanel/public_html/search/storesmetadata.php on line 12
+[31-Dec-2014 19:02:40 UTC] PHP Fatal error:  Call to undefined method DBHelper::executeQuery() in /home/allstorespanel/public_html/search/storesmetadata.php on line 12
+[01-Jan-2015 11:58:56 UTC] PHP Fatal error:  Call to undefined method DBHelper::init() in /home/allstorespanel/public_html/search/storesmetadata.php on line 9
+[02-Jan-2015 07:07:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 27
+[02-Jan-2015 07:09:28 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 27
+[02-Jan-2015 08:01:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 27
+[02-Jan-2015 08:09:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 36
+[02-Jan-2015 08:59:10 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 43
+[02-Jan-2015 09:00:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 43
+[02-Jan-2015 09:01:36 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 43
+[02-Jan-2015 09:02:09 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 43
+[02-Jan-2015 09:19:46 UTC] PHP Fatal error:  Call to undefined method DBHelper::executeQueryOtherMethod() in /home/allstorespanel/public_html/search/storesmetadata.php on line 13
+[02-Jan-2015 18:28:03 UTC] PHP Fatal error:  Access to undeclared static property: DBHelper::$username in /home/allstorespanel/public_html/search/dbhelper.php on line 14
+[02-Jan-2015 18:52:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/allstorespanel/public_html/search/dbhelper.php on line 57
+[08-Mar-2015 17:26:55 UTC] PHP Fatal error:  Call to undefined function geoip_record_by_name() in /home/allstorespanel/public_html/search/iptest.php on line 2
+[21-Mar-2015 11:03:19 UTC] PHP Fatal error:  Call to undefined function addHeader() in /home/allstorespanel/public_html/search/search.php on line 2
